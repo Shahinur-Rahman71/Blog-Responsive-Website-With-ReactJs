@@ -1,0 +1,36 @@
+.homefirstSection{
+  background-color: rgba(240, 255, 240, 0.76);
+  border-radius: 10px;
+}
+.homefirstSection .texts{
+  font-size: 30px;
+  font-weight: bold;
+}
+.navHover:hover{
+  color: rgb(0, 17, 255);
+}
+.imageDesign{
+  height: 200px;
+  width: 200px;
+}
+.aboutfirstImage{
+  height: 350px;
+  width: 100%;
+   
+}
+.aboutsecondImage{
+  border-radius: 10px; 
+  float: left;
+  margin: 0 1rem 1rem 0; 
+  height: 300px;
+  width: 300px;
+}
+.contactfirstImage{
+  height: 360px;
+  width: 100%;
+}
+.contactsecondImage{
+  margin-top: 40px;
+  height: 200px;
+  width: 100%;
+}
